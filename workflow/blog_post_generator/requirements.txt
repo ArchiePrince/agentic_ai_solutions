@@ -1,0 +1,6 @@
+phidata 
+openai 
+duckduckgo-search 
+sqlalchemy 
+phidata
+packaging
